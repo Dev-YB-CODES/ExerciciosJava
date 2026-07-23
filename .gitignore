@@ -1,0 +1,9 @@
+# Java compilado
+*.class
+bin/
+
+# VS Code
+.vscode/
+
+# Bibliotecas
+lib/
